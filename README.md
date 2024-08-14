@@ -1,4 +1,4 @@
-make in black arch
+make in black arch linux
 
 
 
@@ -11,4 +11,3 @@ hack ip addreas
 ngrok (beta)
 have 2 templates (the one templates broken and need to fix lol)
 
-credit:techipnet
