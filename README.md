@@ -1,5 +1,4 @@
 make in black arch
-credit for:techipnet
 
 
 
@@ -11,3 +10,5 @@ hack camera
 hack ip addreas
 ngrok (beta)
 have 2 templates (the one templates broken and need to fix lol)
+
+credit:techipnet
