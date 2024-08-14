@@ -11,7 +11,7 @@ hack ip addreas
 ngrok (beta)
 have 2 templates (the one templates broken and need to fix lol)
 
-----------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------
 
 HOW TO USE
 
@@ -22,5 +22,6 @@ HOW TO USE
 5. after you change your directory you can type bash "Start.sh"
 6. after you type it the program will run and you can just wait for the program to load
 7. after the program running you can use the tools
-8. if you have any issue you can tell me the issue
-9. so happy hacking :)
+
+   if you have any issue you can tell me the issue
+   so happy hacking :)
