@@ -2,7 +2,7 @@ make in black arch linux
 
 
 
-this is a modified camphish and jarvis ai
+this is a modified camphish, saycheese and jarvis ai
 
 features
 
